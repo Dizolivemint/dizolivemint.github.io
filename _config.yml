@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Dizolivemint"
 title_separator          : "-"
-name                     : "Miles Exner"
-description              : "An amazing website."
+name                     : "Dizolivemint"
+description              : "Randomize Timer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -20,12 +20,12 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : dizolivemint.disqus.com # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                :104184200115055
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -55,17 +55,17 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :T3aB0t
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               :Dizolivemint
+  app_id                 :104184200115055
+  publisher              :Dizolivemint
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : Miles Exner # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
