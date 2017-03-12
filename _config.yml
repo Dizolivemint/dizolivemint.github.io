@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en"
-theme                    : minimal-mistakes-jekyll
 title                    : "Dizolivemint"
 title_separator          : "-"
 name                     : "Dizolivemint"
