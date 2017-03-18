@@ -80,31 +80,31 @@ author:
   name             : "Miles Exner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Techno Shaman"
-  location         : "Somewhere"
+  location         : "San Diego, CA"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/Dizolivemint"
   foursquare       :
-  github           :
+  github           : "https://github.com/Dizolivemint/"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/milesexner/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/milesexner/"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  soundcloud       : "https://soundcloud.com/dizolivemint"
+  stackoverflow    : "http://stackoverflow.com/users/7363450/miles-exner"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/dizolivemint"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCniJD81a2HXQlkCESUFAp4w"
 
 
 # Reading Files
