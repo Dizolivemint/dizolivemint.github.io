@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Canvas HTML5 Element"
-categories: HTML5, Javascript, Graphics, Animation, Video
 ---
 ## What is **HTML Canvas**? 
 According to [W3Schools][W3Schools], "the HTML ```<canvas>``` element is used to draw graphics, on the fly, via JavaScript."
