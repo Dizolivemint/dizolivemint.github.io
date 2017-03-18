@@ -6,7 +6,7 @@ author: Dizolivemint
 According to [W3Schools][W3Schools], "the HTML ```<canvas>``` element is used to draw graphics, on the fly, via JavaScript."
 In other words, it allows you to code your graphics and animations into the Canvas element using Javascript. Check out [Mozilla's API and Library references](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)    
 
-One of the benefits of using HTML5 and Javascript is that it works without the need of any plugin and runs on modern browsers across platforms. Animation and physics was the domain of Adobe Flash. Adobe seems to realize they need to adapt to stay in the game. Adobe Flash Professional has been replaced by [Animate CC](https://helpx.adobe.com/animate/using/creating-publishing-html5-canvas-document.html), which can export animations to the HTML5 ```canvas```.
+One of the benefits of using HTML5 and Javascript is that it works without the need of any plugin and runs on modern browsers across platforms. Animation and physics was the domain of Adobe Flash. Adobe Flash Professional has been replaced by [Animate CC](https://helpx.adobe.com/animate/using/creating-publishing-html5-canvas-document.html), which can export animations to the HTML5 ```canvas```. AIR and ActionScript developers won't lose their original tools and maybe able to easily port projects to HTML5 Canvas.
 
 ## Javascript Libraries/Tools for developing in Canvas:
 *   [p5.js](http://p5js.org/)
