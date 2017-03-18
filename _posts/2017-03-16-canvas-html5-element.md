@@ -1,5 +1,5 @@
 ---
-title:  "Canvas HTML5 Element"
+title:  "Canvas HTML5 Element Libraries and Plugins"
 author: Dizolivemint
 ---
 ## What is **HTML Canvas**? 
@@ -8,6 +8,8 @@ In other words, it allows you to code your graphics and animations into the Canv
 ## Javascript Libraries/Tools for developing in Canvas:
 *   [p5.js](http://p5js.org/)
 *   [matter.js](https://github.com/liabru/matter-js): [Introduction Video](https://youtu.be/urR596FsU68) with [Daniel Shiffman](http://shiffman.net/) ([Youtube Channel](https://www.youtube.com/user/shiffman/featured))
+    *    matter.js Plugins: [Matter Wrapper](https://github.com/liabru/matter-wrap) and [Matter Attractors](https://github.com/liabru/matter-attractors)
 *   [matter.js w/ paper.js](http://superblob.org/)
+*   [stage.js](http://piqnt.com/stage.js/)
 
 [W3Schools]:https://www.w3schools.com/html/html5_canvas.asp
