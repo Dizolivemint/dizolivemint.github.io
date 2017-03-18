@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Matter.js Demo"
-     url: https://dizolivemint.github.io/dizolivemint/matter.html
+     url: matter.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
