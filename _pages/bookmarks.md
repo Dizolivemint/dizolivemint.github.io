@@ -2,11 +2,11 @@
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "/boomarks"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: trueS
 ---
 # Bookmarks
 
