@@ -2,7 +2,7 @@
 title:  "Canvas HTML5 Element Libraries and Plugins"
 author: Dizolivemint
 ---
-## What is **HTML Canvas**? 
+## What is **HTML Canvas**?
 According to [W3Schools][W3Schools], "the HTML ```<canvas>``` element is used to draw graphics, on the fly, via JavaScript."
 In other words, it allows you to code your graphics and animations into the Canvas element using Javascript. Check out [Mozilla's API and Library references](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)    
 
@@ -14,5 +14,9 @@ One of the benefits of using HTML5 and Javascript is that it works without the n
     *    matter.js Plugins: [Matter Wrapper](https://github.com/liabru/matter-wrap) and [Matter Attractors](https://github.com/liabru/matter-attractors)
 *   [matter.js w/ paper.js](http://superblob.org/)
 *   [stage.js](http://piqnt.com/stage.js/)
+
+Additional Resources:
+*    [Drawing DOM on the Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Drawing_DOM_objects_into_a_canvas)
+*    [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 
 [W3Schools]:https://www.w3schools.com/html/html5_canvas.asp
