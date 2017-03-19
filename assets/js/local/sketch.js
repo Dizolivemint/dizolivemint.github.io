@@ -8,7 +8,7 @@ var engine,
     boxes = [];
 
 function setup() {
-    createCanvas(400, 400);
+    var canvas = createCanvas(400, 400);
     canvas.parent('sketch-holder');
     engine = Engine.create();
     world = engine.world;
