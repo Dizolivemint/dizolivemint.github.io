@@ -1,4 +1,6 @@
 ---
+title: Bookmarks
+permalink: /bookmarks/
 defaults:
   # _pages
   - scope:
@@ -6,8 +8,8 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: trueS
-  - permalink: /bookmarks/
+      author_profile: true
+
 ---
 # Bookmarks
 
