@@ -2,11 +2,12 @@
 defaults:
   # _pages
   - scope:
-      path: "/bookmarks"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: trueS
+  - permalink: /bookmarks/
 ---
 # Bookmarks
 
