@@ -1,6 +1,5 @@
 ---
 title: Bookmarks
-permalink: bookmarks.html
 defaults:
   # _pages
   - scope:

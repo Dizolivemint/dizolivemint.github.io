@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Bookmarks"
-    url: Bookmarks.html
+    url: /bookmarks
   # - title: "Matter.js Demo"
   #   url: /matter.html
   # - title: "Sample Posts"
