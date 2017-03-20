@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/boomarks"
+      path: "/bookmarks"
       type: pages
     values:
       layout: single
