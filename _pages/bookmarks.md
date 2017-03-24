@@ -17,7 +17,7 @@ defaults:
 
 ### Backend
 Data Structures
-*    [YAML Documentation]("http://www.yaml.org/spec/1.2/spec.html")
+*    [YAML Documentation](http://www.yaml.org/spec/1.2/spec.html)
 
 Server
 *    [MySQL Cheat sheet](https://gist.github.com/Dizolivemint/d88f2b5f4ea060f1a816bedde3fa1861#file-readme-md)  
