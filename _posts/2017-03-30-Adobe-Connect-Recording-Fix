@@ -1,0 +1,6 @@
+---
+title: "Fix for Audio a Video Sync in Adobe Connect"
+author: Miles Exner
+---
+The video and audio are off by 1/3 of a percent. 
+To fix in screenflow, detach the audio from the video clip and set the video clip playback rate to 100.03333% using the clip inspector. 
