@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Dizolivemint"
 title_separator          : "-"
-name                     : "Dizolivemint"
+name                     : "Miles Exner"
 description              : "Randomize Timer"
 url                      : https://dizolivemint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Miles Exner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Techno Shaman"
+  bio              : "Master of Science in Traditional Oriental Medicine"
   location         : "San Diego, CA"
   email            :
   uri              :
