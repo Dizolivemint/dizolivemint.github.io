@@ -7,6 +7,7 @@ author: Miles Exner
 ![Where in the World is Carmen Sandiego](http://www.bestoldgames.net/img/ss/where-in-the-world-is-carmen-sandiego/where-in-the-world-is-carmen-sandiego-ss2.png)
 
 To find Carmen Sandiego, you need to follow the clues with the knowledge you gain about cities of the world.
+
 ***
 ### Oregon Trail
 ***
@@ -27,6 +28,7 @@ From answering Confuscious' questions to Particle-Wave Duality experiments, thes
 ![Rocksmith](https://upload.wikimedia.org/wikipedia/en/a/ae/Rocksmith_2014_cover.jpg)
 
 ***
+
 What is better than Rockband and/or Guitar Hero? Using a real guitar.
 
 More to come!
