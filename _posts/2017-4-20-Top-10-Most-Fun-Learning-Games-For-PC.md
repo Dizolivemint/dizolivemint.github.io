@@ -1,6 +1,6 @@
 ---
 title: Top 10 Most Fun Learning Games for PC
-layout: post
+author: Miles Exner
 ---
 Game design is an important topic. If you want people to keep coming back, you need to make it worth the while. It needs to be addictive and stay interesting. 
 
