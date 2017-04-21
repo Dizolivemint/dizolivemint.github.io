@@ -13,13 +13,25 @@ To find Carmen Sandiego, you need to follow the clues with the knowledge you gai
 ![Oregon Trail](https://thisisshagg.files.wordpress.com/2010/09/river2.png)
 
 ***
-### Microsoft Encarta (the encyclopedia with mini-games)
+You needed to learn about resource and risk management with some landmarks and history along the way.
+
+***
+### Microsoft Encarta
 ***
 ![Microsoft Encarta](http://www.cdaccess.com/gifs/pc/front/large/msenca96.gif)
 
+From answering Confuscious' questions to Particle-Wave Duality experiments, these mini games burned into the memory banks.
 ***
 ### Rocksmith
 ***
 ![Rocksmith](https://upload.wikimedia.org/wikipedia/en/a/ae/Rocksmith_2014_cover.jpg)
 
 ***
+What is better than Rockband and/or Guitar Hero? Using a real guitar.
+
+More to come!
+***
+### Microsoft Flight Simulator
+***
+You could log training hours with this.
+
