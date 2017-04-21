@@ -22,6 +22,7 @@ You needed to learn about resource and risk management with some landmarks and h
 ![Microsoft Encarta](http://www.cdaccess.com/gifs/pc/front/large/msenca96.gif)
 
 From answering Confuscious' questions to Particle-Wave Duality experiments, these mini games burned into the memory banks.
+
 ***
 ### Rocksmith
 ***
