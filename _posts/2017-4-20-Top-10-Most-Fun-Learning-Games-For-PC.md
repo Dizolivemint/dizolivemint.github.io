@@ -1,5 +1,5 @@
 ---
-title: Top 10 Most Fun Learning Games for PC
+title: Top 4 Most Fun Learning Games for PC
 author: Miles Exner
 ---
 ### Where in the World is Carmen Sandiego?
