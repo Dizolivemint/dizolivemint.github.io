@@ -2,26 +2,23 @@
 title: Top 10 Most Fun Learning Games for PC
 author: Miles Exner
 ---
-<hr/>
+***
 # Top 10 Most Fun Learning Games for PC
-<hr/>
-<hr/>
+***
+***
 ### Where in the World is Carmen Sandiego?
-<hr/>
-
-<hr/>
+***
+***
 ### Oregon Trail
-<hr/>
-
-<hr/>
+***
+***
 ### Microsoft Encarta (the encyclopedia with mini-games)
-<hr/>
-
-<hr/>
+***
+***
 ### Rocksmith
-<hr/>
+***
 <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Rocksmith_2014_cover.jpg"/>
-<hr/>
+***
 
 ## eLearning Game Design
 
