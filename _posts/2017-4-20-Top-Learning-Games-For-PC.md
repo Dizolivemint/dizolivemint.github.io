@@ -29,10 +29,7 @@ From answering Confuscious' questions to Particle-Wave Duality experiments, thes
 ![Rocksmith](https://upload.wikimedia.org/wikipedia/en/a/ae/Rocksmith_2014_cover.jpg)
 
 ***
-
 What is better than Rockband and/or Guitar Hero? Using a real guitar.
-
-More to come!
 
 ***
 ### Microsoft Flight Simulator
