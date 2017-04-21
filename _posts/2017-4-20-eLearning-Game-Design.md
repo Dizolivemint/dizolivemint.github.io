@@ -1,5 +1,7 @@
-## eLearning Game Design
-
+---
+title: eLearning Game Design
+author: Miles Exner
+---
 Game design is an important topic. If you want people to keep coming back, you need to make it worth the while. It needs to be addictive and stay interesting. 
 
 eLearning game developers have a lot to learn from the top video game developers. The competition is so rediculously good and plentiful in the world of video games, that you need to deliver an experience that is worthwhile. 
