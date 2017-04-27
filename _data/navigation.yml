@@ -2,8 +2,6 @@
 main:
   - title: "Bookmarks"
     url: /bookmarks
-  - title: "Adobe Connect Training Tutorial"
-    url: /actrain
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
