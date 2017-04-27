@@ -1,5 +1,15 @@
 ---
-layout: page
+title: AC Training
+permalink: actrain.html
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
 ---
 
 Welcome to the Adobe Connect Training
