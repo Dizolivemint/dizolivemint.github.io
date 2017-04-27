@@ -2,8 +2,8 @@
 main:
   - title: "Bookmarks"
     url: /bookmarks
-  # - title: "Matter.js Demo"
-  #   url: /matter.html
+  - title: "Adobe Connect Training Tutorial"
+    url: /Adobe-Connect-Training
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
