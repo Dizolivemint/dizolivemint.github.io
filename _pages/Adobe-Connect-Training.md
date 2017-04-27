@@ -58,4 +58,5 @@ If you are having issues with Adobe Connect, a host will recommend the following
 * If Adobe Connect is not working or any other issue you are having on your own, you can place a support ticket. 
 * Every course has an eLearning Support Form at the footer, you can also email to onlineservices @ pacificcollege . edu
 
-You will now be put into groups and will turn on your camera and mics, say hi, and ask any questions you may have. You will then mute your mic and turn off your camera. After that you are free to go.
+Breakout Rooms
+You will now be put into groups and sent to breakout rooms. In alphabetical order, one at a time, your host will ask you to turn on your camera and mics, say hi, and ask any questions you may have. You will then mute your mic and turn off your camera. After that you are free to go.
