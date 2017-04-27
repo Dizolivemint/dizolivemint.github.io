@@ -35,7 +35,7 @@ Interface
 * Like an on-ground class you can raise your hand and get more in-depth on the headset and webcam. Please raise you hand if you can guess how to do that.
 * Everyone go ahead and raise their hand and then lower them by clicking the button to the right of all other buttons.
 * You can also express common reactions with the emoticons on the dropdown menu. (List some) Feel free to get comfortable with them.
-
+* Please type into the chat pod if you have any questions.
 
 Configuring Adobe Connect
 * Everybody run Audio Setup Wizard and when you have completed it please type done into the chat pod
@@ -44,6 +44,7 @@ Configuring Adobe Connect
 * With a dropdown next to it that you can use to adjust the mic volume, or check and switch mic inputs if you have to.
 * The camera icon button also has a dropdown next to it that lets you select the camera, in case you have more than one, like a front and a back camera.
 * Clicking the camera button once sets your camera in preview mode. The feed goes nowhere, so you can turn this on while you are waiting to go live.
+* Please raise your hand if you have any questions
 
 If you are having issues with Adobe Connect, a host will recommend the following:
 * Restarting Adobe Connect - this is the simplest solution if a pod does not display, or something goes out of sync.
