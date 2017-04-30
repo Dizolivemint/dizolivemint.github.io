@@ -2,7 +2,7 @@
 title: Top 4 Mistakes of Cycling a Fish Tank
 author: Miles Exner
 ---
-## If you haven't attempted to cycle a saltwater aquarium, you can learn from my mistakes!
+## If you haven't attempted to cycle a saltwater aquarium, you maybe able to learn from my mistakes!
 
 ### Mistake #1
 ***
