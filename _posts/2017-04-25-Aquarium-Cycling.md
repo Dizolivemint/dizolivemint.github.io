@@ -1,18 +1,18 @@
 ---
-title: Top 4 N00b Mistakes of Cycling a Fish Tank
+title: Top 4 Mistakes of Cycling a Fish Tank
 author: Miles Exner
 ---
 ## If you haven't attempted to cycle a saltwater aquarium, you can learn from my mistakes!
 
 ### Mistake #1
----
+***
 #### Missing a piece of the puzzle:
 * Do I have something to test my water with?
 * What type of water should I use?
 * How do I know my cylce is done?
 * When should I do my water changes?
 * What can I do to speed up my cylce?
----
+***
 
 #### Do I have something to test my water with?
 * Buy a test kit...you will need to know ammonia, nitrite, and nitrate levels "a tri tra".
