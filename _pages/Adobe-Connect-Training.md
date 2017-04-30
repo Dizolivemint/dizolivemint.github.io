@@ -1,6 +1,6 @@
 ---
 title: AC Training
-permalink: actrain.html
+# permalink: actrain.html
 defaults:
   # _pages
   - scope:
@@ -9,7 +9,6 @@ defaults:
     values:
       layout: default
       author_profile: true
-
 ---
 
 Welcome to the Adobe Connect Training
