@@ -10,11 +10,10 @@ author: Miles Exner
 * [What type of water should I use?](#mistake-2)
 * [How do I know my cylce is done?](#mistake-3)
 * [When should I do my water changes?](#mistake-4)
-* [What can I do to speed up my cylce?](#mistake-5)
-***
+* [What can I do to speed up my cylce?](#mistake-5)  
 
 {: #mistake-1}
-
+***
 ### Do I have something to test my water with?
 * Buy a test kit...you will need to know ammonia, nitrite, and nitrate levels "a tri tra".
 * If you are using an untrusted water source, you should test for chlorine, since it will kill the nitrifying bacteria.
