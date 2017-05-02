@@ -11,8 +11,6 @@ defaults:
       author_profile: true
 
 ---
-# Bookmarks
-
 ## Reference
 
 ### Backend
