@@ -2,8 +2,8 @@
 main:
   - title: "Bookmarks"
     url: /bookmarks
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Machine Learning Resources"
+    url: /machine-learning-resources
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
