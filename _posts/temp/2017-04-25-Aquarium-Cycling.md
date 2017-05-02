@@ -6,11 +6,11 @@ author: Miles Exner
 
 ### Nano Saltwater Cycling Questions
 ***
-* Do I have something to test my water with?
-* What type of water should I use?
-* How do I know my cylce is done?
-* When should I do my water changes?
-* What can I do to speed up my cylce?
+* [Do I have something to test my water with?](#mistake-1)
+* [What type of water should I use?](#mistake-2)
+* [How do I know my cylce is done?](#mistake-3)
+* [When should I do my water changes?](#mistake-4)
+* [What can I do to speed up my cylce?](#mistake-5)
 ***
 
 {: #mistake-1}
@@ -37,7 +37,7 @@ Do not do water changes until your cycle is complete. There is much talk on the 
 
 {: #mistake-5}
 ***
-#### What can I do to speed up my cylce?
+### What can I do to speed up my cylce?
 Dr. Tim has a bunch of information and products on his website. I haven't used any of his products yet, but from what I've read in Reef Hobyist Magazine, they work. His video walkthroughs are well done. Here is an [in-depth scientific article on aquarium nitrogen cycling from his website.](http://www.drtimsaquatics.com/resources/how-to-start)
 
 I also recommend gathering information from Local Fish Store (LFS) and being careful about information you find on forums. I found much of the information I found in forums was contrary to what my LFS owner told me. The LFS owner turned out to be right and that is why I ultimately compiled this information.
