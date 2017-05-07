@@ -60,7 +60,7 @@ facebook:
   username               : Dizolivemint
   app_id                 : 104184200115055
   publisher              : Dizolivemint
-og_image                 : https://dizolivemint.github.io/android-chrome-192x192.png
+og_image                 : https://dizolivemint.github.io/images/site-icon.svg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
