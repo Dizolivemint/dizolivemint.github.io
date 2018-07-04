@@ -2,7 +2,7 @@
 title: Improving Acupuncture Outcomes with Machine Learning Based Diagnostics
 author: Miles Exner
 header:
-  teaser: http://dizolivemint.com/assets/images/artificial-intelligence-yin-yang.jpg
+  teaser: https://dizolivemint.github.io/assets/images/artificial-intelligence-yin-yang.jpg
 ---
 In the modern study of Traditional Chinese Medicine (TCM) there is arguably more to learn than ever before, with new treatment methodologies, modern medical discoveries, mountains of research piling up. What if we could take all this new and old knowledge, memorize it, and determine the best diagnosis and treatment approaches based on not just what we have learned and are going to learn, but based on all of the cases and knowledge in existence?
 
