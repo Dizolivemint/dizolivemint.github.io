@@ -11,7 +11,7 @@ title                    : "Dizolivemint"
 title_separator          : "|"
 name                     : "Miles Exner"
 description              : "Randomize Timer"
-url                      : http://dizolivemint.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dizolivemint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : dizolivemint/dizolivemint.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/random-teasers.jpg
