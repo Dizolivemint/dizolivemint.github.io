@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Miles Exner"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : ""
   location         : "San Diego, CA"
   email            :
   uri              :
