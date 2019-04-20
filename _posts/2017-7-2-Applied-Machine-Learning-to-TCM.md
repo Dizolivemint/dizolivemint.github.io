@@ -1,5 +1,5 @@
 ---
-title: Improving Acupuncture Outcomes with Machine Learning Based Diagnostics
+title: Improved Acupuncture Outcomes | Machine Learning Based Diagnostics
 author: Miles Exner
 header:
   teaser: https://dizolivemint.github.io/assets/images/artificial-intelligence-yin-yang.jpg
