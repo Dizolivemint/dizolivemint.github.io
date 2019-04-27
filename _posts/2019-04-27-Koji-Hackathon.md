@@ -18,4 +18,4 @@ Started with the Phaser 3 template. A good amount of my work was creating the Ca
 
 Here is the project at the end of the hackathon. I'm working on fixing an issue with loading sounds. Then I actually have to create some gameplay. But his is as far as I got.
 
-<iframe src="https://captainmarvel.withkoji.com" width="270" height="480" frameborder="0"></iframe>
+<iframe src="https://captainmarvel.withkoji.com" width="400" height="480" frameborder="0"></iframe>
