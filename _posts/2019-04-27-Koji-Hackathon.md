@@ -9,8 +9,8 @@ header:
 We had five hours to produce an app or game.
 
 Here are a couple of games that were made:
-[Night with Poe by ygonz](https://night_with_poe.withkoji.com/)
-[Loading with Koji by jones](https://loading.withkoji.com/)
+* [Night with Poe by ygonz](https://night_with_poe.withkoji.com/)
+* [Loading with Koji by jones](https://loading.withkoji.com/)
 
 ## My experience
 
@@ -18,4 +18,4 @@ Started with the Phaser 3 template. A good amount of my work was creating the Ca
 
 Here is the project at the end of the hackathon. I'm working on fixing an issue with loading sounds. Then I actually have to create some gameplay. But his is as far as I got.
 
-<iframe src="https://captainmarvel.withkoji.com" width="400" height="480" frameborder="0"></iframe>
+<iframe src="https://captainmarvel.withkoji.com" width="600" height="480" frameborder="0"></iframe>
