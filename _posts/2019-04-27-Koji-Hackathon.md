@@ -4,12 +4,17 @@ author: Dizolivemint
 header:
   teaser: https://github.com/Dizolivemint/dizolivemint.github.io/blob/master/assets/images/captain-marvel-trailer.png?raw=true
 ---
-## Hackathon!!!
+## World Wide Hackathon with Koji
 
-In five hours I worked to get this finished.</p>
+We had five hours to produce an app or game.
+
+Here are a couple of games that were made:
+[Night with Poe by ygonz](https://night_with_poe.withkoji.com/)
+[Loading with Koji by jones](https://loading.withkoji.com/)
+
+## My experience
 
 Started with the Phaser 3 template. A good amount of my work was creating the Captain Marvel animation which is actually missing a few images.
-
 
 Here is the project at the end of the hackathon. I'm working on fixing an issue with loading sounds. Then I actually have to create some gameplay. But his is as far as I got.
 
