@@ -8,9 +8,13 @@ header:
 
 We had five hours to produce an app or game.
 
-Here are a couple of games that were made:
+It was fun to see where people were at through communication with [discord](https://youtu.be/AO2XO7l2_WY). Wild, a promonent Phaser 3 tutorial YouTuber, [streamed his experience](https://youtu.be/AO2XO7l2_WY). 
+
+Here are a couple of unique games that were developed at the hackathon:
 * [Night with Poe by ygonz](https://night_with_poe.withkoji.com/)
 * [Loading with Koji by jones](https://loading.withkoji.com/)
+
+For more, the results are going to be released Tuesday.
 
 ## My experience
 
