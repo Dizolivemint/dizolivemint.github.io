@@ -2,7 +2,7 @@
 title:  Koji | Hackathon (4/27/2019) for $500
 author: Dizolivemint
 header:
-  teaser: captain-marvel-trailer.png
+  teaser: https://github.com/Dizolivemint/dizolivemint.github.io/blob/master/assets/images/captain-marvel-trailer.png?raw=true
 ---
 ## Hackathon!!!
 
