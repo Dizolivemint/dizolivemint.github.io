@@ -1,5 +1,5 @@
 ---
-title:  "Koji | Hackathon (4/27/2019) for $500
+title:  Koji | Hackathon (4/27/2019) for $500
 author: Dizolivemint
 header:
   teaser: captain-marvel-trailer.png
