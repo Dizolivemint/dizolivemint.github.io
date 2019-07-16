@@ -8,7 +8,7 @@ header:
 
 Koji makes it easy to build apps and games for you or your business. 
 
-## How do I make a game for my Business?
+## How do I make a game for myself or business?
 
 1. Pick a game from the [Koji app store](https://withkoji.com)
 2. Click Remix to make your own version
@@ -17,7 +17,7 @@ Koji makes it easy to build apps and games for you or your business.
 4. Deploy it as a super fast Progressive Web Application
 5. Share it everywhere!
 
-## I love building apps with Koji
+## Why I love building apps with Koji
 Anyone can make their own version of any of my public projects without any code! This is the fastest way to build apps collaboratively and ship them out instantly.
 
 Check out my latest release, which was ported to Koji from this [original project on GitHub](https://github.com/ASteinheiser/react-rpg.com):
