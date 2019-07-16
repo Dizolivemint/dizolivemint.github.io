@@ -21,6 +21,6 @@ Koji makes it easy to build apps and games for you or your business.
 Anyone can make their own version of any of my public projects without any code! This is the fastest way to build apps collaboratively and ship them out instantly.
 
 Check out my latest release, which was ported to Koji from this [original project on GitHub](https://github.com/ASteinheiser/react-rpg.com):
-<iframe src="https://withkoji.com/embed/30ec384f-00f0-4ec8-ad62-59b775cb90d1" width="320" height="480" frameborder="0" allowfullscreen />
+<iframe src="https://withkoji.com/embed/30ec384f-00f0-4ec8-ad62-59b775cb90d1" width="320" height="480" frameborder="0"></iframe>
 
 Enjoy!
