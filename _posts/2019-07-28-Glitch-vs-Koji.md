@@ -2,7 +2,7 @@
 title:  Glitch vs Koji | App Development Platforms
 author: Dizolivemint
 header:
-  teaser: https://raw.githubusercontent.com/Dizolivemint/dizolivemint.github.io/master/assets/images/react-template-image-02.jpg
+  teaser: https://raw.githubusercontent.com/Dizolivemint/dizolivemint.github.io/master/assets/images/koji-vs-glitch.png
 ---
 ## 
 Koji is a bacteria used in fermentation and Glitch is a pair of fishes reflecting the sunset? Would combining the two create Stink Fish, a new app development platform that mimics the worst of both worlds or would it create Sushi, the more edible platform?  
