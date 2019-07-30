@@ -4,11 +4,7 @@ author: Dizolivemint
 header:
   teaser: https://raw.githubusercontent.com/Dizolivemint/dizolivemint.github.io/master/assets/images/koji-vs-glitch.png
 ---
-Koji is a bacteria used in fermentation and Glitch is a pair of fishes reflecting the sunset? Would combining the two create Stink Fish, a new app development platform that mimics the worst of both worlds or would it create Sushi, the more edible platform?  
-These are fast app building platforms. Small apps, built quickly with the power of Node.
-
-App development platforms are becoming a thing in other programming languages, as well. They all aim to make the development experience easier. 
-These platforms offer an easy alternative to setting up a development environment, server, database, and all of the other steps required for cross-platform applications.  
+App development platforms are becoming a thing in other programming languages, as well. They all aim to make the development experience easier. These platforms offer an easy alternative to setting up a development environment, server, database, and all of the other steps required for cross-platform applications.  
 
 #### Koji and Glitch use:
 * Docker
