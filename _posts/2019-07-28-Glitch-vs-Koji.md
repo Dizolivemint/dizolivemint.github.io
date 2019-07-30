@@ -6,20 +6,7 @@ header:
 ---
 App development platforms are becoming a thing in other programming languages, as well. They all aim to make the development experience easier. These platforms offer an easy alternative to setting up a development environment, server, database, and all of the other steps required for cross-platform applications.  
 
-#### Koji and Glitch use:
-* Docker
-* GitHub
-* Node
-
-#### Koji and Glitch borrow features from:
-* CodePen
-* Heroku
-* Netlify
-
 ## What is the difference between Glitch and Koji?
-Glitch and Koji have been looking more and more similar since Koji's conception. Koji was initally going to be a template store.  
-Now Koji is only remixable apps and have been promoting simple games that can be remixed into interactive memes.  
-Glitch has been around about two years before GoMeta created Koji. The Glitch platform is from the same dudes that created Stack Overflow.  
 
 ### Target audience
 Glitch was aimed at developers/coders, while Koji invites everyone to create apps without code.
