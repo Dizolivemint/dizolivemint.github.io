@@ -6,24 +6,11 @@ header:
 ---
 ## World Wide Hackathon with Koji
 
-We had five hours to produce an app or game.
-
-It was fun to see where people were at through communication with [discord](https://youtu.be/AO2XO7l2_WY). Wild, a promonent Phaser 3 tutorial YouTuber, [streamed his experience](https://youtu.be/AO2XO7l2_WY). 
-
-Here are a couple of unique games that were developed at the hackathon:
-* [Night with Poe by ygonz](https://night_with_poe.withkoji.com/)
-* [Loading with Koji by jones](https://loading.withkoji.com/)
-
-For more, the results are going to be released Tuesday.
-
-## My experience
-
-Started with the Phaser 3 template. A good amount of my work was creating the Captain Marvel animation which is actually missing a few images. Those are meant to be used as attack animations. I grabbed frames from a gif and broke them up in a sprite sheet. Here is an image of that:
+Start with the Phaser 3 template.
+Grab frames from a gif and broke them up in a sprite sheet.
 
 ![Image of my work in Photoshop](https://github.com/Dizolivemint/dizolivemint.github.io/blob/master/assets/images/2019-04-27_11-42-48.png?raw=true)
 
-
-
-Here is the project at the end of the hackathon. I'm working on fixing an issue with loading sounds. Then I actually have to create some gameplay. But his is as far as I got.
-
+Build user interface, gameplay mechanics, add more images.
+Final result:
 <iframe src="https://captainmarvel.withkoji.com" width="640" height="480" frameborder="0"></iframe>
